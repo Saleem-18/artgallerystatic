@@ -1,0 +1,293 @@
+.rectangle-icon {
+  position: absolute;
+  height: 100%;
+  width: 42.35%;
+  top: 0;
+  right: 22.35%;
+  bottom: 0;
+  left: 35.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.modern {
+  margin: 0;
+}
+.modern-art-gallery-container,
+.the-arts-in {
+  position: absolute;
+  top: calc(50% - 210px);
+  display: inline-block;
+}
+.modern-art-gallery-container {
+  width: 40.31%;
+  left: 12.94%;
+  line-height: 88px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: var(--almost-black);
+}
+.the-arts-in {
+  width: 27.45%;
+  left: 72.55%;
+  font-size: var(--body-m-size);
+  line-height: 32px;
+  font-weight: 300;
+  font-family: var(--body-m);
+  color: var(--dark-grey);
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--almost-black);
+}
+.our-location {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 15.69%;
+  letter-spacing: 3.64px;
+  font-weight: 800;
+}
+.rectangle-copy,
+.rectangle-group {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.rectangle-group {
+  width: 78.46%;
+  right: 21.54%;
+  overflow: hidden;
+}
+.rectangle-copy {
+  width: 100%;
+  right: 0;
+  background-color: var(--gold);
+}
+.path-2-icon {
+  position: absolute;
+  height: 34.1%;
+  width: 16.1%;
+  top: 32.95%;
+  right: 41.78%;
+  bottom: 32.95%;
+  left: 42.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent,
+.group {
+  position: absolute;
+  height: 100%;
+  width: 21.54%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 78.46%;
+}
+.frame-parent {
+  height: 9%;
+  width: 20.39%;
+  top: 51.75%;
+  right: 7.06%;
+  bottom: 39.25%;
+  left: 72.55%;
+  font-size: 20px;
+}
+.modern-art-gallery-container1 {
+  position: absolute;
+  top: calc(50% - 210.5px);
+  left: calc(50% - 60px);
+  line-height: 88px;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+  width: 514px;
+}
+.jakarta-art-gallery,
+.rectangle-parent {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.jakarta-art-gallery {
+  height: 99.88%;
+  width: 35.29%;
+  top: 0.13%;
+  right: 64.71%;
+  bottom: 0;
+}
+.rectangle-parent {
+  top: 0;
+  width: 1275px;
+  height: 800px;
+}
+.wander-through-our,
+.your-day-at {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  display: inline-block;
+}
+.your-day-at {
+  top: calc(50% - 140px);
+  line-height: 60px;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.wander-through-our {
+  top: calc(50% + 12px);
+  font-size: var(--body-m-size);
+  line-height: 32px;
+  font-weight: 300;
+  font-family: var(--body-m);
+  color: var(--dark-grey);
+}
+.your-day-at-the-gall-parent {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 350px;
+  height: 280px;
+  overflow: hidden;
+}
+.rectangle-copy-2,
+.rectangle-copy-4,
+.rectangle-icon1 {
+  position: absolute;
+  top: 0;
+  left: 475px;
+  width: 635px;
+  height: 400px;
+  object-fit: cover;
+}
+.rectangle-copy-2,
+.rectangle-copy-4 {
+  top: 430px;
+  left: 0;
+  height: 720px;
+}
+.rectangle-copy-4 {
+  left: 665px;
+  width: 445px;
+  height: 313px;
+}
+.rectangle-copy-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--almost-black);
+  width: 445px;
+  height: 377px;
+}
+.come-be,
+.were-excited-to {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  display: inline-block;
+}
+.come-be {
+  top: calc(50% - 124px);
+  line-height: 60px;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.were-excited-to {
+  top: calc(50% + 28px);
+  font-size: var(--body-m-size);
+  line-height: 32px;
+  font-weight: 300;
+  font-family: var(--body-m);
+}
+.come-be-inspired-parent {
+  position: absolute;
+  top: 65px;
+  left: 48px;
+  width: 350px;
+  height: 248px;
+  overflow: hidden;
+}
+.frame-group,
+.rectangle-copy-3-parent {
+  position: absolute;
+  top: 773px;
+  left: 665px;
+  width: 445px;
+  height: 377px;
+  color: var(--color-white);
+}
+.frame-group {
+  top: 966px;
+  left: 165px;
+  width: 1110px;
+  height: 1150px;
+  font-size: var(--heading-m-size);
+  color: var(--almost-black);
+}
+.mask1 {
+  position: absolute;
+  top: 2310px;
+  left: 0;
+  background-color: var(--almost-black);
+  width: 1440px;
+  height: 244px;
+}
+.the-modern-art {
+  position: absolute;
+  width: 58.9%;
+  top: calc(50% - 42px);
+  left: 41.1%;
+  line-height: 28px;
+  font-weight: 300;
+  display: inline-block;
+}
+.modernartgallery-icon {
+  position: relative;
+  width: 159.57px;
+  height: 58px;
+}
+.the-modern-art-galle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 730px;
+  height: 84px;
+  overflow: hidden;
+}
+.frame-container,
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 1010px;
+  width: 100px;
+  height: 20px;
+}
+.frame-container {
+  top: 2390px;
+  left: 165px;
+  width: 1110px;
+  height: 84px;
+  font-size: 18px;
+  font-family: var(--body-m);
+}
+.desktop-home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2554px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-xl-size);
+  color: var(--color-white);
+  font-family: var(--heading-m);
+}
